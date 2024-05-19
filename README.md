@@ -1,8 +1,6 @@
-# React + Vite
+# React Meme Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I built my first interactive web app in React through [Bob Ziroll's course on Scrimba](https://scrimba.com/playlist/prXJpCQ). This project introduced me to several new concepts, including event listeners, ***state handling***, useState array destructuring, ***data passing between components***, dynamic styling, ***derived state versus lifted state***, forms, controlled components, ***making API calls***, ***handling side effects with useEffect***, and the useEffect cleanup function.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+<a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="144" height="72" alt="React" /></a> &nbsp;
